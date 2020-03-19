@@ -2,7 +2,7 @@
     "manifest_format_version": "1.0",
 
     "name": "Lib A",
-    "version": "1.8.0",
+    "version": "1.8.1",
 
     "dependencies": [
         {
